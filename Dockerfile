@@ -1,4 +1,4 @@
-FROM debian:jessie
+FROM debian
 
 MAINTAINER Dino.Korah@RedMatter.com
 
